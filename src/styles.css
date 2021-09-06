@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+input {
+  min-width: 4em;
+  width: 25%;
+  height: 2em;
+  font-size: 1em;
+  padding: 1em;
+}
+
+li {
+  font-size: 2em;
+  display: inline;
+}
